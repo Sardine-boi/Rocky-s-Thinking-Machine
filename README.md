@@ -13,3 +13,8 @@ What need to do:
 -- make it able to open a small window (dont know how to do that?)
 -- interative instances (little apps like: notes, a mini art program thingy(??), a window detailing me, and more instances)
 -- make a few graphics for instances (eg. icon images, extra images for the acc instance)
+
+
+Pesky bug:
+My "x" button for the Consult Grace window decides to stay in middle no matter what, and the window is still gigantic :(
+I'll try to fix it
